@@ -1,12 +1,12 @@
 # David Riphagen
 
-I'm a product manager, currently working on [Google Play](www.play.google.com).
+I'm a product manager, currently working on [Google Play](https://www.play.google.com).
 
 See what it's like to be a PM at Google (featuring me) [here](https://www.youtube.com/watch?v=MIq7oqgIZUw).
 
-In my previous life, I worked as a [consultant](www.mckinsey.com) on tech strategy.
+In my previous life, I worked as a [consultant](https://www.mckinsey.com) on tech strategy.
 
-You can find my most recent resume on [Linkedin](www.linkedin.com/in/david-riphagen-2bb3435).
+You can find my most recent resume on [Linkedin](https://www.linkedin.com/in/david-riphagen-2bb3435).
 
 
 ## What I've built
