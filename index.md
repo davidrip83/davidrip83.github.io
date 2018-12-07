@@ -1,6 +1,6 @@
 # David Riphagen
 
-I'm a product manager, currently working on [Google Play](https://www.play.google.com).
+I'm a product manager, currently working on [Google Play](https://play.google.com/store?hl=en).
 
 See what it's like to be a PM at Google (featuring me) [here](https://www.youtube.com/watch?v=MIq7oqgIZUw).
 
@@ -36,9 +36,9 @@ Not prioritized in any way:
 - [BSc](https://www.tudelft.nl/en/education/programmes/bachelors/tb/bsc-technische-bestuurskunde/) and [MSc](https://www.tudelft.nl/onderwijs/opleidingen/masters/cosem/msc-complex-systems-engineering-and-management/) IT Systems Engineering, Policy Analysis and Management
 - [MBA from IESE](https://mba.iese.edu/) with [exchange at Chicago Booth](https://www.chicagobooth.edu/programs/full-time/academics/international-studies/ibep)
 - Some online coding class certificates, including:
-    * [John Hopkins Data Science certificate](https://www.coursera.org/account/accomplishments/specialization/N5E5W5LWR38J)
+    * [Johns Hopkins Data Science certificate](https://www.coursera.org/account/accomplishments/specialization/N5E5W5LWR38J)
     * [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning?utm_source=googlecloud&utm_medium=institutions&utm_campaign=GoogleCloud_Training_DE_specialization)
 
 ## Contact me
 
-[Linkedin](www.linkedin.com/in/david-riphagen-2bb3435)
+[Linkedin](https://www.linkedin.com/in/david-riphagen-2bb3435)
