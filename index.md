@@ -29,6 +29,7 @@ Not prioritized in any way:
 - Seeing live music
 - Cooking -> I love [TJs](https://www.traderjoes.com/)
 - Wandering around cities aimlessly
+- Getting back into [photography](https://www.eyeem.com/u/davidriphagen)
 - I also really really like coffee :coffee:
 
 ## What I studied
