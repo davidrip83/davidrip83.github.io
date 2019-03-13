@@ -25,7 +25,7 @@ Some examples of things I built:
 Not prioritized in any way:
 
 - Playing guitar (and making music in general)
-- Reading **TODO: add reading list**
+- Reading -> see my sometimes updated [Goodreads list](https://www.goodreads.com/widgets/user_update_widget?height=400&num_updates=5&user=10448485)
 - Seeing live music
 - Cooking -> I love [TJs](https://www.traderjoes.com/)
 - Wandering around cities aimlessly
