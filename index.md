@@ -1,10 +1,11 @@
 # David Riphagen
 
-I'm a product manager, currently working on [Google Play](https://play.google.com/store?hl=en).
+I'm a product manager, currently working on the Lightbox ML Model Building Environment and data infra at [Credit Karma](https://www.creditkarma.com/). I love to help people make progress with their financial welness.
 
+Previously, I was working on [Google Play](https://play.google.com/store?hl=en).
 See what it's like to be a PM at Google (featuring me) [here](https://www.youtube.com/watch?v=MIq7oqgIZUw).
 
-In my previous life, I worked as a [consultant](https://www.mckinsey.com) on tech strategy.
+In my before previous life, I worked as a [consultant](https://www.mckinsey.com) on tech strategy.
 
 You can find my most recent resume on [Linkedin](https://www.linkedin.com/in/david-riphagen-2bb3435).
 
@@ -39,6 +40,7 @@ Not prioritized in any way:
 - Some online coding class certificates, including:
     * [Johns Hopkins Data Science certificate](https://www.coursera.org/account/accomplishments/specialization/N5E5W5LWR38J)
     * [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning?utm_source=googlecloud&utm_medium=institutions&utm_campaign=GoogleCloud_Training_DE_specialization)
+    * [Datacamp Pandas Foundations](https://campus.datacamp.com/courses/pandas-foundations/)
 
 ## Contact me
 
